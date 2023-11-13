@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning *Data Structure using Java*
 
-- 👯 Pursuing Bachelors of Degree in *Computer Science and Engineering*
+- 👯 Pursuing Bachelors of Degree in *Computer Science and Engineering(AIML)*
 
 - 💬 Ask me about *Java,MySQL
 
 - 📫 How to reach me *sasikiranpedina59@gmail.com*
 
-- ⚡ Fun fact *hello world!!*
+- ⚡ Fun fact *IT'S HAARDER TO READ CODES THAN TO WRITE IT!!*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
